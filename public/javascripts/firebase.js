@@ -9,6 +9,7 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.4.0/firebase
 const firebaseConfig = {
   apiKey: "AIzaSyC8ux9AzT3yeOq57klfdKlmNXL1IX95Xr0",
   authDomain: "fir-b6057.firebaseapp.com",
+  databaseURL:"https://fir-b6057-default-rtdb.firebaseio.com",
   projectId: "fir-b6057",
   storageBucket: "fir-b6057.appspot.com",
   messagingSenderId: "770096561054",
